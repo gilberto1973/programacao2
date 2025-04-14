@@ -1,0 +1,31 @@
+gilberto e Tayna
+CG 1° PERÍODO
+
+//Passos para Fazer um Sanduíche:
+
+//Pegue dois pedaços de pão.
+
+//Passe manteiga em um dos lados de cada fatia (opcional).
+
+//Adicione recheios (por exemplo, presunto, queijo, alface, tomate, etc.).
+
+//Feche o sanduíche com a outra fatia de pão.
+
+//Corte ao meio, se desejar.
+
+//Sirva e aproveite!
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("1. Pegue duas fatias de pão.");
+        Console.WriteLine("2. Passe manteiga em um dos lados de cada fatia (opcional).");
+        Console.WriteLine("3. Adicione os recheios: presunto, queijo, alface, tomate.");
+        Console.WriteLine("4. Feche o sanduíche com a outra fatia de pão.");
+        Console.WriteLine("5. Corte o sanduíche ao meio (se quiser).");
+        Console.WriteLine("6. Sirva e aproveite!");
+    }
+}
